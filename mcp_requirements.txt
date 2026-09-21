@@ -1,0 +1,2 @@
+# VectorX MCP Server Requirements
+fastmcp>=0.1.0

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "vectorx-db": {
+      "command": "python",
+      "args": ["vectorx_mcp_server.py"],
+      "env": {
+        "OPENAI_API_KEY": "",
+        "VECTORX_API_TOKEN": "", 
+        "VECTORX_ENCRYPTION_KEY": "",
+        "LLM_MODEL": "gpt-4o-mini"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.env
+.venv/
+env/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+chroma_db/
+mcp_config.json
